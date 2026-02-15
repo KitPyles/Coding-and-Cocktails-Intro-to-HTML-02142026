@@ -37,6 +37,10 @@
     background-color: #d4d4d4;
   }
   
+  nav li {
+    margin-right: 0.5rem;    /* adds separation between targets */
+  }
+  
   main {
     padding: 1rem;
   }
@@ -46,3 +50,7 @@
     font-size: 1.5rem;
   }
   
+  #contact a {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+  }
